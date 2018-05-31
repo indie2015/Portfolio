@@ -1,2 +1,0 @@
-# Portfolio
-Udacity Portfolio Project
